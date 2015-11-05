@@ -1,0 +1,1 @@
+Repository has moved [here](https://github.com/tweedegolf/collada2json)
